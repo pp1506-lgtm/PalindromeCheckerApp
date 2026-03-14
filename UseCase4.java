@@ -17,3 +17,4 @@ public class UseCase4 {
         System.out.println("Is Palindrome?: " + isPalindrome); 
     }
 }
+//uc4
