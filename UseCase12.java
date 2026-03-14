@@ -17,4 +17,4 @@ public class UseCase12 {
         System.out.println("Input: " + input);
         System.out.println("Is Palindrome?: " + strategy.check(input));
     }
-}
+}//uc12
