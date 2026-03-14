@@ -19,3 +19,4 @@ public class UseCase7 {
         System.out.println("Is Palindrome?: " + isPalindrome);
     }
 }
+//uc7
