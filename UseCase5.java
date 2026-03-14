@@ -18,3 +18,4 @@ public class UseCase5 {
         System.out.println("Is Palindrome?: " + isPalindrome);
     }
 }
+//uc5
