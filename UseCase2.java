@@ -13,3 +13,4 @@ public class UseCase2 {
     }
 }
 //usecase2
+// UC2 Implementation
