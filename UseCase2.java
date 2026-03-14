@@ -12,4 +12,5 @@ public class UseCase2 {
         System.out.println("Is it a Palindrome?: " + isPalindrome);
     }
 }
+//usecase2
 // UC2 Implementation
