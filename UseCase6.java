@@ -22,3 +22,4 @@ public class UseCase6 {
         System.out.println("Is Palindrome?: " + isPalindrome);
     }
 }
+//uc6
