@@ -5,3 +5,4 @@ public class UseCase1 {
         System.out.println("System initialized successfully."); 
     }
 }
+// UC1 Implementation
